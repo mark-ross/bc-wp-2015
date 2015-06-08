@@ -1,3 +1,0 @@
-#This is another attempt of a readme#
-
-There is no guarantee that this will work, but this is a simple test that I can tell! Woo!
